@@ -1,0 +1,28 @@
+{
+  "name": "ugreen-kvm",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"manufacturer": "Ugreen",
+	"product": "KVM/HDMI Switch",
+	"shortname": "ugreenkvm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTF4/companion-module-ugreen-kvm.git"
+  },
+  "keywords": [
+    "ugreen",
+    "M5",
+    "kvm",
+    "hdmi"
+  ],
+  "author": "David Stevens <teamjtf4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JTF4/companion-module-ugreen-kvm/issues"
+  },
+  "homepage": "https://github.com/JTF4/companion-module-ugreen-kvm#readme"
+}
